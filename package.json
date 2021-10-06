@@ -1,0 +1,33 @@
+{
+  "name": "kicks-dh",
+  "version": "1.0.0",
+  "description": "Kicks es un e-commerce ficticio creado como proyecto para <a href=\"https://www.digitalhouse.com/ar\" target=\"_blank\">Digital House</a>. El objetivo fue crear una página web interactiva que posea todas las funcionalidades de un e-commerce, tales como un carrito de compras, o la creación, edición y eliminación de productos.\r ## 💻 ¿Puedo verlo en vivo?\r <!-- ¡Por supuesto! Puedes visitar la versión en vivo haciendo click en el siguiente enlace:\\\r https://vinyl-wrld.vercel.app/ -->\r Estoy trabajando en ello.\r ## 🧱 ¿Cuál es el stack de tecnologías usado? \r Las tecnologías usadas para realizar el proyecto son:\r - JavaScript\r - Node.js\r - Express\r - HTML\r - CSS\r - MySQL\r - Sequelize\r ## 💬 ¿Cuál es tu información de contacto?\r Puede comunicarse conmigo por correo electrónico: rtanquiascornejo@gmail.com\\\r O enviarme un mensaje en LinkedIn: https://www.linkedin.com/in/ramiro-tanquias/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app -i json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramatc/kicks-dh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramatc/kicks-dh/issues"
+  },
+  "homepage": "https://github.com/ramatc/kicks-dh#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.10.0",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
