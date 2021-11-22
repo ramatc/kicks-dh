@@ -1,9 +1,9 @@
-# Kicks👟
+# Kicks
 
 Kicks es un e-commerce ficticio creado como proyecto para <a href="https://www.digitalhouse.com/ar" target="_blank">Digital House</a>. El objetivo fue crear una página web interactiva que posea todas las funcionalidades de un e-commerce, tales como un carrito de compras, o la creación, edición y eliminación de productos.
-## 💻 ¿Puedo verlo en vivo?
+## ¿Puedo verlo en vivo?
 Estoy trabajando en ello.
-## 🧱 ¿Cuál es el stack de tecnologías usado? 
+## Stack de tecnologías utilizado:
 Las tecnologías usadas para realizar el proyecto son:
 - JavaScript
 - Node.js
@@ -12,7 +12,7 @@ Las tecnologías usadas para realizar el proyecto son:
 - CSS
 - MySQL
 - Sequelize
-## 💬 Información de contacto
+## Información de contacto:
 Puede comunicarse conmigo por correo electrónico: rtanquiascornejo@gmail.com\
 O enviarme un mensaje en LinkedIn: https://www.linkedin.com/in/ramiro-tanquias/
 
